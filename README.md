@@ -35,7 +35,6 @@
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
 | 🤝 [**We-AI 협업 플랫폼 (ProjectHub)**](https://github.com/WE-AI-Project/we-ai-server) | 멀티 에이전트 기반 프로젝트 협업·QA 자동화 플랫폼. PM을 맡았고 JWT(RTR)·공통 응답 규격·Flyway·라즈베리파이 CI/CD 배포를 구축 (**졸업작품 우수상**) | Spring Boot · MySQL · MinIO · GitHub Actions |
-| 💬 [**SenTic**](https://github.com/SenTic-DMU) | 생성형 AI 기반 실시간 영어 회화 학습 앱. 웹 프로토타입을 Expo 앱으로 옮기고 소셜 로그인·토스페이먼츠 결제를 연동 | React Native · Expo · TypeScript |
 | 📝 [**tlink-promo-writer**](https://github.com/where-is-the-error/tlink-promo-writer) | 사진·메모만으로 **모든 문장에 근거 쪽수가 붙는** 블로그 홍보글을 쓰는 AI. 별도 AI가 검증하고, 프롬프트 인젝션을 방어 (스마트워크톤) | Next.js · Gemini · Supabase |
 | 🧩 [**daily-mcp-skills**](https://github.com/where-is-the-error/daily-mcp-skills) | 공개 MCP 2개를 섞어 **매일 새 MCP 하나**를 만드는 시리즈. 코드·테스트·릴스까지 함께 공개 | Python · MCP |
 | 🧠 [**MindSpace**](https://github.com/where-is-the-error/MindSpaceWeb) | 뇌파·표정으로 감정을 인식하는 정신건강 케어 플랫폼의 웹. BAI·BDI·PSS 자가진단 (**EXPO 장려상**) | React |
